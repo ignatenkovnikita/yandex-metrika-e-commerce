@@ -1,0 +1,7 @@
+{
+    "name": "ignatenkovnikita/yandex-metrika-e-commerce",
+    "description": "Yandex metrika e-commerce export users & orders",
+    "require": {
+        "php": ">=7.0"
+    }
+}
